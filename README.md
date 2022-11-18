@@ -1,1 +1,1 @@
-# DS_Algo Notes
+# DS_Algo
